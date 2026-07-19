@@ -1,7 +1,7 @@
 
 # AetherBleed
 
-!<img width="1024" height="559" alt="watermarked_img_18129683734115292977" src="https://github.com/user-attachments/assets/4d2bff00-7f0a-40a3-b9ad-fd76c4c45aee" />)
+<img width="1024" height="559" alt="watermarked_img_18129683734115292977" src="https://github.com/user-attachments/assets/4d2bff00-7f0a-40a3-b9ad-fd76c4c45aee" />
 
 > **AetherBleed** is a Python-based Windows malware specimen documented for cybersecurity research, malware analysis, and defensive security education.
 
